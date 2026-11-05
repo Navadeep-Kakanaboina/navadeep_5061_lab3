@@ -12,7 +12,7 @@
 
 ## Deployment URL
 
-**Render URL:** https://vinuthna-5017-lab3.onrender.com/books
+**Render URL:** https://navadeep-5061-lab3.onrender.com/books
 
 ## Project Description
 
@@ -60,7 +60,7 @@ lab3/
 ### 1. Clone the repository
 
 ```bash
-git  https://github.com/vinuthnabajjuri-25/vinuthna_5017_lab3.git
+git  https://github.com/Navadeep-Kakanaboina/navadeep_5061_lab3.git
 ```
 
 ### 2. Open the project folder
